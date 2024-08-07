@@ -1,0 +1,13 @@
+{
+  "name": "playwright_test_automation",
+  "version": "1.0.0",
+  "description": "This is a Demo Project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mayur",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
